@@ -1,2 +1,2 @@
 # noweizi.github.io
-noweizi博客
+noweizi博客.
